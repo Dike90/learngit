@@ -1,7 +1,7 @@
 int sum=8;
 int* p_sum = &sum;
 const int* cp_sum =&sum;
-
+//can you know changes
 int* const p = &sum;
  /*   
     指针前面的类型声明表明指针指向对象的类型；
