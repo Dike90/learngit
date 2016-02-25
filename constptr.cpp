@@ -2,6 +2,7 @@ int sum=8;
 int* p_sum = &sum;
 const int* cp_sum =&sum;
 //can you know changes
+//new branch dev
 int* const p = &sum;
 int p;
  /*   
